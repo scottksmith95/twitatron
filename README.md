@@ -9,3 +9,11 @@ Some of you may know about my latest project [Favatron](https://favatron.com). I
 I am proud to introduce Twitatron, the web application we will be making. Twitatron will automatically monitor your Twitter account for mentions. When it finds those mentions, it will process them, store them, show them in the UI, expose them via an API endpoint and RSS feed, send an email digest, and share weekly stats with integrated social networks.
 
 [Twitatron: Building a production web app with Node](http://scottksmith.com/blog/2014/10/05/twitatron-building-a-production-web-app-with-node/)
+
+####Part 02
+
+In our [previous article](http://scottksmith.com/blog/2014/10/05/twitatron-building-a-production-web-app-with-node/) we started with the basics and built a web application capable of serving static content, compressing that content, and implementing cache headers.
+
+In this installment of the Twitatron series, we will be diving into Views and Controllers.
+
+[Twitatron: Building a production web app with Node - Views & Controllers](http://scottksmith.com/blog/2015/03/23/twitatron-building-a-production-web-app-with-node-views-and-controllers/)
