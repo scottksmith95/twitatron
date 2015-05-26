@@ -10,7 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "compression": "^1.1.0",
+    "crypto": "0.0.3",
     "express": "^4.9.5",
-    "jade": "^1.7.0"
+    "express-session": "^1.11.2",
+    "jade": "^1.7.0",
+    "mongoose": "^4.0.3",
+    "passport": "^0.2.2",
+    "passport-twitter": "^1.0.3"
   }
 }

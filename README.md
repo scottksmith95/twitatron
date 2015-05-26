@@ -17,3 +17,11 @@ In our [previous article](http://scottksmith.com/blog/2014/10/05/twitatron-build
 In this installment of the Twitatron series, we will be diving into Views and Controllers.
 
 [Twitatron: Building a production web app with Node - Views & Controllers](http://scottksmith.com/blog/2015/03/23/twitatron-building-a-production-web-app-with-node-views-and-controllers/)
+
+####Part 03
+
+In our [previous article](http://scottksmith.com/blog/2014/10/05/twitatron-building-a-production-web-app-with-node/) we leared how to add views, layouts, partials, controllers, and more.
+
+In this installment of the Twitatron series, we will be diving into how to implement user accounts. By the end of this article you will have learned how to connect to MongoDB, used Mongoose for object modeling, implemented Passport for user authentication, allow users to login with their Twitter account, and have full support for user accounts.
+
+[Twitatron: Building a production web app with Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
